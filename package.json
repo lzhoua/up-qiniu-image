@@ -1,0 +1,14 @@
+{
+  "name": "up-qiniu-image",
+  "version": "0.1.0",
+  "description": "上传文件夹中所有的图片到七牛",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sanye",
+  "license": "ISC",
+  "dependencies": {
+    "qiniu": "^7.3.0"
+  }
+}
